@@ -1,0 +1,22 @@
+{
+  "name": "PodFramework2",
+  "version": "0.1.0",
+  "summary": "A short description of PodFramework2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cosmicyogi/PodFramework2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cosmicyogi": "mitesh_soni@rocketmail.com"
+  },
+  "source": {
+    "git": "https://github.com/cosmicyogi/PodFramework2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodFramework2/Classes/**/*"
+}

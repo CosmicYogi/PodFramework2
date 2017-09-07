@@ -1,0 +1,16 @@
+PODS:
+  - PodFramework2 (0.1.0)
+
+DEPENDENCIES:
+  - PodFramework2 (from `../`)
+
+EXTERNAL SOURCES:
+  PodFramework2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodFramework2: 59f519aa0a9679dad874eff648c78cf519b891f2
+
+PODFILE CHECKSUM: 9b4d4ac7357687a90a265d69de582684dfe6416c
+
+COCOAPODS: 1.1.1
